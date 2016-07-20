@@ -4,12 +4,14 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-html {
+html
+{
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-body {
+body
+{
   margin: 0;
 }
 article,
@@ -24,32 +26,39 @@ main,
 menu,
 nav,
 section,
-summary {
+summary
+{
   display: block;
 }
 audio,
 canvas,
 progress,
-video {
+video
+{
   display: inline-block;
   vertical-align: baseline;
 }
-audio:not([controls]) {
+audio:not([controls])
+{
   display: none;
   height: 0;
 }
 [hidden],
-template {
+template
+{
   display: none;
 }
-a {
+a
+{
   background-color: transparent;
 }
 a:active,
-a:hover {
+a:hover
+{
   outline: 0;
 }
-abbr[title] {
+abbr[title]
+{
   border-bottom: 1px dotted;
 }
 b,
